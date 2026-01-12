@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- สีหลัก (Primary Colors) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- สีพื้นฐาน (Basic Colors) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- สีข้อความ (Text Colors) -->
+    <color name="text_primary">#DE000000</color>
+    <color name="text_secondary">#8A000000</color>
+    <color name="text_hint">#61000000</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- สีพื้นหลัง (Background Colors) -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#303030</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#424242</color>
+
+    <!-- สีสำหรับสถานะ (Status Colors) -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- สีสำหรับ UI Components -->
+    <color name="divider">#1F000000</color>
+    <color name="shadow">#1F000000</color>
+    <color name="ripple">#1F000000</color>
+
+    <!-- สีสำหรับแอปจัดการสินค้า (Custom Colors for Product Management) -->
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#FF4081</color>
+
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow">#33000000</color>
+
+    <color name="button_primary">#3F51B5</color>
+    <color name="button_secondary">#FF4081</color>
+    <color name="button_disable">#9E9E9E</color>
+
+    <color name="price_color">#4CAF50</color>
+    <color name="quantity_low">#F44336</color>
+    <color name="quantity_medium">#FF9800</color>
+    <color name="quantity_high">#4CAF50</color>
+
+    <color name="border_light">#E0E0E0</color>
+    <color name="border_dark">#616161</color>
+
+    <!-- สีสำหรับไอคอน (Icon Colors) -->
+    <color name="icon_active">#3F51B5</color>
+    <color name="icon_inactive">#757575</color>
+    <color name="icon_white">#FFFFFF</color>
+</resources>
